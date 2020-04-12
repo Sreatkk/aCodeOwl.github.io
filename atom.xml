@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-04-10T12:22:06.631Z</updated>
+  <updated>2020-04-12T14:19:23.192Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>软件测试简介</title>
+    <link href="/2020/04/12/testingbasis/"/>
+    <id>/2020/04/12/testingbasis/</id>
+    <published>2020-04-12T14:19:00.000Z</published>
+    <updated>2020-04-12T14:19:23.192Z</updated>
+    
+    <summary type="html">
+    
+      软件测试简介
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="软件测试" scheme="/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Git的配置与使用</title>
