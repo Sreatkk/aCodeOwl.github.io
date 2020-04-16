@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-04-12T14:19:23.192Z</updated>
+  <updated>2020-04-16T08:45:05.989Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,86 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript变量的使用</title>
+    <link href="/2020/04/16/JavaScript_3/"/>
+    <id>/2020/04/16/JavaScript_3/</id>
+    <published>2020-04-16T08:50:00.000Z</published>
+    <updated>2020-04-16T08:45:05.989Z</updated>
+    
+    <summary type="html">
+    
+      JavaScript变量的使用
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript输入输出语句</title>
+    <link href="/2020/04/16/JavaScript_2/"/>
+    <id>/2020/04/16/JavaScript_2/</id>
+    <published>2020-04-16T08:45:00.000Z</published>
+    <updated>2020-04-16T08:43:35.126Z</updated>
+    
+    <summary type="html">
+    
+      JavaScript输入输出语句
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript的三种写法</title>
+    <link href="/2020/04/16/JavaScript_1/"/>
+    <id>/2020/04/16/JavaScript_1/</id>
+    <published>2020-04-16T08:43:00.000Z</published>
+    <updated>2020-04-16T08:53:12.353Z</updated>
+    
+    <summary type="html">
+    
+      JavaScript的三种写法
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>黑盒测试等价类划分法-三角形问题</title>
+    <link href="/2020/04/16/equivalenceclass/"/>
+    <id>/2020/04/16/equivalenceclass/</id>
+    <published>2020-04-16T08:34:00.000Z</published>
+    <updated>2020-04-16T08:34:21.566Z</updated>
+    
+    <summary type="html">
+    
+      黑盒测试等价类划分法-三角形问题
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="软件测试" scheme="/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>软件测试简介</title>
@@ -40,8 +120,8 @@
     <title>Git的配置与使用</title>
     <link href="/2020/04/09/git/"/>
     <id>/2020/04/09/git/</id>
-    <published>2020-04-09T14:47:03.054Z</published>
-    <updated>2020-04-10T12:22:06.631Z</updated>
+    <published>2020-04-09T14:48:00.000Z</published>
+    <updated>2020-04-12T14:29:03.782Z</updated>
     
     <summary type="html">
     
