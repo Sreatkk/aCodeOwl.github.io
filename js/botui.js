@@ -150,5 +150,5 @@ function bot_ui_ini() {
                     content: "那么，仔细看看我的博客吧？ ^_^"
                 })
             })
-        } 
+        }
 }
