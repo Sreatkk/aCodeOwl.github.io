@@ -513,6 +513,16 @@
         <img src="https://cdn.jsdelivr.net/gh/aCodeOwl/cdn@1.1/img/other/disqus-preloader.svg">
       </div>
     </div>
+    <div class="footer-device">
+      <p style="font-family: 'Ubuntu', sans-serif;">
+<!--        <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>-->
+        
+        本站总访问量<span id="busuanzi_value_site_pv"></span>次&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        本站访客数<span id="busuanzi_value_site_uv"></span>人次&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+        
+      </p>
+    </div>
   </div><!-- .site-info -->
 </footer>
 
@@ -529,8 +539,9 @@
 <script src='//unpkg.com/valine@1.3.4/dist/Valine.min.js'></script>
 <script src="/js/botui.js"></script>
 <!-- 不蒜子 网页计数器 -->
-<script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!--<script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>-->
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script> -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
@@ -795,12 +806,13 @@ $(document).ready(function() {
 <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
 <style>
   .aplayer .aplayer-lrc {
-    height: 50px;
+    height: 35px;
   }
   .aplayer .aplayer-lrc p{
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 18px !important;
+    /*line-height: 120%;*/
   }
   .aplayer .aplayer-lrc p.aplayer-lrc-current{
     color: #05c7ff;
