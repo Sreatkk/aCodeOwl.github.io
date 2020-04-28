@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-04-24T16:06:11.697Z</updated>
+  <updated>2020-04-16T08:45:05.989Z</updated>
   <id>/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>聊一聊人生</title>
-    <link href="/2020/04/24/life1/"/>
-    <id>/2020/04/24/life1/</id>
-    <published>2020-04-24T15:55:30.000Z</published>
-    <updated>2020-04-24T16:06:11.697Z</updated>
-    
-    <summary type="html">
-    
-      人生感想
-    
-    </summary>
-    
-      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="生活" scheme="/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-      <category term="感想" scheme="/tags/%E6%84%9F%E6%83%B3/"/>
-    
-      <category term="人生" scheme="/tags/%E4%BA%BA%E7%94%9F/"/>
-    
-  </entry>
   
   <entry>
     <title>JavaScript变量的使用</title>
